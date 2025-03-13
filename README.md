@@ -8,8 +8,3 @@
 <!-- Top Languages Card: 常用编程语言 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwartzMss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- GitHub Streak Stats: 连续贡献天数 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SwartzMss&theme=default)](https://git.io/streak-stats)
-
-<!-- GitHub Profile Trophy: 成就奖杯 -->
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SwartzMss)](https://github.com/ryo-ma/github-profile-trophy)
