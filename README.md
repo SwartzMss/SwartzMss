@@ -6,7 +6,9 @@
       <img src="images/aaron_2.jpg" alt="swartzAaron" width="500" />
     </td>
   <td valign="middle" style="width:200px;">
-    <p style="font-size:18px; font-weight:bold; color:#ff5733;">"This world doesn't deserve him..."</p>
+    <p style="font-size:18px;">
+      <strong><font color="#B8860B">"This world doesn't deserve him..."</font></strong>
+    </p>
   </td>
   </tr>
 </table>
