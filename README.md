@@ -2,7 +2,7 @@
 
 <table align="center" style="width:600px; table-layout: fixed;">
   <tr>
-    <td valign="middle" style="width:400px;">
+    <td valign="middle" style="width:500px;">
       <img src="images/aaron_2.jpg" alt="swartzAaron" width="500" />
     </td>
   <td valign="middle" style="width:200px;">
