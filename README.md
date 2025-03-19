@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 😄, I am SwartzMss 💡🔥🚀😎</h1>
 
-<table align="center" style="width:600px; table-layout: fixed;">
+<table align="center" style="width:650px; table-layout: fixed;">
   <tr>
     <td valign="middle" style="width:500px;">
-      <img src="images/aaron_2.jpg" alt="swartzAaron" width="500" />
+      <img src="images/aaron_2.jpg" alt="swartzAaron" width="550" />
     </td>
-  <td valign="middle" style="width:200px;">
+  <td valign="middle" style="width:100px;">
     <p style="font-size:18px;">
       <strong><font color="#B8860B">"This world doesn't deserve him..."</font></strong>
     </p>
