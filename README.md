@@ -36,7 +36,7 @@
 <!-- GitHub Activity Graph -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwartzMss&area=true&hide_border=true&theme=dracula" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwartzMss&area=true&hide_border=true&theme=dracula" alt="GitHub Activity Graph" width="800" />
   </a>
 </p>
 
@@ -47,6 +47,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fankouzu/Fankouzu/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fankouzu/Fankouzu/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Fankouzu/Fankouzu/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Fankouzu/Fankouzu/output/github-contribution-grid-snake.svg"  width="850">
   </picture>
 </p>
