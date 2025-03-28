@@ -1,4 +1,15 @@
-<h1 align="center">Hi there 😄, I am SwartzMss 💡🔥🚀😎</h1>
+<h1 align="center">Hi,I am SwartzMss 💡🔥🚀😎</h1>
+
+# Tech Stack
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
+![Audio & Video](https://img.shields.io/badge/Audio%20%26%20Video-FF69B4.svg?style=for-the-badge)
+
+# Current Learning
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-FF4500.svg?style=for-the-badge)
+
 
 <table align="center" style="width:650px; table-layout: fixed;">
   <tr>
