@@ -36,7 +36,7 @@
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwartzMss&layout=compact&custom_title=😊%20Used%20Languages&langs_count=4&theme=radical" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwartzMss&layout=compact&custom_title=%20Used%20Languages&langs_count=4&theme=radical" alt="Top Langs" />
       </a>
     </td>
   </tr>
