@@ -7,10 +7,6 @@
 ![Qt](https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
 ![Audio & Video](https://img.shields.io/badge/Audio%20%26%20Video-FF69B4.svg?style=for-the-badge)
 
-# Current Learning
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-FF4500.svg?style=for-the-badge)
-
-
 <table align="center" style="width:650px; table-layout: fixed;">
   <tr>
     <td valign="middle" style="width:500px;">
