@@ -11,17 +11,21 @@
 ## 我的兴趣爱好
 
 ### 电视剧
+![越狱](https://img.shields.io/badge/-越狱-blue?style=for-the-badge)
+![纸牌屋](https://img.shields.io/badge/-纸牌屋-blue?style=for-the-badge)
 ![天道](https://img.shields.io/badge/-天道-blue?style=for-the-badge)
 ![大明王朝](https://img.shields.io/badge/-大明王朝-blue?style=for-the-badge)
 
 ### 游戏
+![DNF](https://img.shields.io/badge/-DNF-red?style=for-the-badge)
+![英雄联盟](https://img.shields.io/badge/-英雄联盟-red?style=for-the-badge)
 ![王者荣耀](https://img.shields.io/badge/-王者荣耀-red?style=for-the-badge)
 ![万国觉醒](https://img.shields.io/badge/-万国觉醒-red?style=for-the-badge)
 
 ### 其他爱好
 ![NAS](https://img.shields.io/badge/-NAS-green?style=for-the-badge)
 ![AI自动化](https://img.shields.io/badge/-AI自动化-green?style=for-the-badge)
-![游戏脚本](https://img.shields.io/badge/游戏脚本-purple?style=for-the-badge)
+![游戏脚本](https://img.shields.io/badge/游戏脚本-green?style=for-the-badge)
 
 <table align="center" style="width:650px; table-layout: fixed;">
   <tr>
