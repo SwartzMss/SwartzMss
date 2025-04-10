@@ -1,11 +1,27 @@
 <h1 align="center">Hi,I am SwartzMss 💡🔥🚀😎</h1>
 
-# Tech Stack
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
-![Audio & Video](https://img.shields.io/badge/Audio%20%26%20Video-FF69B4.svg?style=for-the-badge)
+## 关于我
+- 💻 技术栈: **C++** **Python** **Rust** **Audio/Video** **Qt**
+- 🤖 正在学习: **MCP Agent RL**
+- 🌱 梦想: **当老板**
+- 📫 邮箱：**swartz_lubel@outlook.com**
+
+
+
+## 我的兴趣爱好
+
+### 电视剧
+![天道](https://img.shields.io/badge/-天道-blue?style=for-the-badge)
+![大明王朝](https://img.shields.io/badge/-大明王朝-blue?style=for-the-badge)
+
+### 游戏
+![王者荣耀](https://img.shields.io/badge/-王者荣耀-red?style=for-the-badge)
+![万国觉醒](https://img.shields.io/badge/-万国觉醒-red?style=for-the-badge)
+
+### 其他爱好
+![NAS](https://img.shields.io/badge/-NAS-green?style=for-the-badge)
+![AI自动化](https://img.shields.io/badge/-AI自动化-green?style=for-the-badge)
+![游戏脚本](https://img.shields.io/badge/游戏脚本-purple?style=for-the-badge)
 
 <table align="center" style="width:650px; table-layout: fixed;">
   <tr>
