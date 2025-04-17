@@ -15,6 +15,7 @@
 ![纸牌屋](https://img.shields.io/badge/-纸牌屋-blue?style=for-the-badge)
 ![天道](https://img.shields.io/badge/-天道-blue?style=for-the-badge)
 ![大明王朝](https://img.shields.io/badge/-大明王朝-blue?style=for-the-badge)
+![沉默的真相](https://img.shields.io/badge/-沉默的真相-blue?style=for-the-badge)
 
 ### 游戏
 ![DNF](https://img.shields.io/badge/-DNF-red?style=for-the-badge)
