@@ -3,7 +3,7 @@
 ## 关于我
 - 💻 技术栈: **C++** **Python** **Rust** **Audio/Video** **Qt**
 - 🤖 正在学习: **MCP Agent RL**
-- 🌱 梦想: **当老板**
+- 🌱 梦想: **让我孩子当富二代**
 - 📫 邮箱：**swartz_lubel@outlook.com**
 
 
