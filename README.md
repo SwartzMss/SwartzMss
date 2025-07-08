@@ -2,7 +2,7 @@
 
 ## 关于我
 - 💻 技术栈: **C++** **Python** **Rust** **Audio/Video** **Qt**
-- 🤖 正在学习: **MCP Agent RL YOLO**
+- 🤖 正在学习: **MCP Agent RL YOLO 树莓派**
 - 🌱 梦想: **做富二代的老爸**
 - 📫 邮箱：**swartz_lubel@outlook.com**
 
