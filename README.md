@@ -1,7 +1,7 @@
 <h1 align="center">Hi,I am SwartzMss 💡🔥🚀😎</h1>
 
 ## 关于我
-- 💻 技术栈: **C++** **Python** **Rust** **Audio/Video** **Qt** **ESP32/Pi** **MCP**
+- 💻 技术栈: **C++** **Python** **Rust** **Docker** **Audio/Video** **Qt** **ESP32/Pi** **MCP**
 - 🤖 正在学习: **3D打印**
 - 🌱 梦想: **做富二代的老爸**
 - 📫 邮箱：**swartz_lubel@outlook.com**
