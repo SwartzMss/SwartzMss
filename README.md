@@ -2,7 +2,7 @@
 
 ## 关于我
 - 💻 技术栈: **C++** **Python** **Rust** **Docker** **Audio/Video** **Qt** **ESP32/Pi** **MCP**
-- 🤖 正在学习: **3D打印**
+- 🤖 正在学习: **复刻Nof1.ai**
 - 🌱 梦想: **做富二代的老爸**
 - 📫 邮箱：**swartz_lubel@outlook.com**
 
